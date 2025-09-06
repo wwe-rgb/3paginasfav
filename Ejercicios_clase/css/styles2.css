@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: auto;
+    background-color: #4CAF50;
+}
+
+.contenedor{
+   color: rgba(17, 17, 231, 0.756);
+   margin: auto;
+    padding: 10px;
+    background-color: #efb504;  
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+nav ul {
+    list-style: none;   /* quita los puntitos */
+    margin: 0;
+    padding: 0;
+    display: flex;      /* los pone en línea */
+    justify-content: flex-end; /* los manda a la derecha */
+    gap: 15px;          /* espacio entre los enlaces */
+}
+
+nav ul li a {
+    text-decoration: none; 
+    color: white;
+    background-color: rgba(231, 167, 17, 0.9);
+    padding: 8px 12px;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: rgb(51, 0, 255);
+}
+
+

@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+    background-color: rgb(18, 18, 222);
+}
+header{
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(240, 202, 10);
+
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    
+}
+#Horarios{
+    background-color: rgb(10, 37, 240);
+    color: white;
+}
+ #Dias{
+   
+  background-color:rgb(253, 199, 3) ;
+    color: white;
+}
+#Lenguajes{
+    background-color: rgba(167, 171, 167, 0.932);
+    color: white;
+}
+#Algoritmos{
+    background-color: rgba(249, 246, 246, 0.932);
+    color: black;
+}
+#DiseñoT{
+    background-color: rgba(167, 171, 167, 0.932);
+    color: white;
+}
+#DiseñoL{
+    background-color: rgba(249, 246, 246, 0.932);
+    color: black;
+}
+#ProgWeb{
+    background-color: rgba(167, 171, 167, 0.932);
+    color: white;
+}
+
